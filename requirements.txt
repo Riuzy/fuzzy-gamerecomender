@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-fuzzy
+streamlit
+spicy
+networkx
